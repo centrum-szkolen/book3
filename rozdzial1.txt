@@ -5,5 +5,7 @@ rozdział 1 .............
 
 zmiana w pierwszym rozdziale
 
+kolejna zmiana 
+
 
 koniec rozdziału
